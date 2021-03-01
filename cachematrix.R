@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## makeCacheMatrix creates a list containing a function to set the value of the matrix, get the value of the matrix,set the value of the inverse matrix and get the value of the inverse matrix
 makeCacheMatrix <- function(x = matrix()) {
         m<-NULL
